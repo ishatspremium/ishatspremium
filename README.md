@@ -9,6 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.facebook.com/kklivenow" title="Facebook"><img width="27" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"> Facebook</a></code>
   <code><a href="https://www.instagram.com/kk_ishat/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+<code><a href="https://open.spotify.com/user/zbsl4yar58cswt1tm7i71owo1/playlists" title="Spotify"><img width="30" src="https://img.icons8.com/plasticine/100/000000/spotify--v2.png"> Spotify</a></code>
 </h5>
 <br>
 <p align="center">
@@ -118,7 +119,6 @@ Here are some ideas to get you started:
 
 Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
 
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
 <!-- Connect -->
 ## 🙋 Let's Connect
