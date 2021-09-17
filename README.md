@@ -1,11 +1,14 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-
+<p align="center">
+  <a href="https://github.com/ishatspremium">
+    <img align="center" src="https://raw.githubusercontent.com/ekramasif/ekramasif/main/coder.gif" width="300">
+  </a>
+</p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+iSHAT+KK....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 <h5 align="center">
   <code><a href="https://www.facebook.com/kklivenow" title="Facebook"><img width="27" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"> Facebook</a></code>
   <code><a href="https://www.instagram.com/kk_ishat/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
