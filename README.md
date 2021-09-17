@@ -16,7 +16,7 @@
   <br>
   🔬 I'm currently Unemployed
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn anything about it
   <br>
   📚 I’m currently learning how to build E-Commerce Website
   <br>
