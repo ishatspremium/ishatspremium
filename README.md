@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ishatspremium">
-    <img align="center" src="https://raw.githubusercontent.com/ekramasif/ekramasif/main/coder.gif" width="300">
+    <img align="center" src="ishat.gif" width="300">
   </a>
 </p>
 <h1 align="center">
