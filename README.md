@@ -15,7 +15,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm iSHAT KK, Computer Engineer & Software Developer from Turkey
+  Hi, I'm iSHAT KK!
   <br>
   <br>
   🔬 I'm currently studying for a BBA degree in North South University
