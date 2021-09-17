@@ -30,14 +30,17 @@
   📫 How to reach me: <a href="mailto: ishatspremium@hotmail.com">ishatspremium@hotmail.com</a>
 </p>
 <br>
-📺 Latest YouTube Videos
+
+## 📺 Latest YouTube videos
+
+<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- YouTube Cards - WIP by ishatspremium -->
+
 <!-- YOUTUBE:START -->
-
-- [iSHAT KK's Latest YouTube Video](https://www.youtube.com/watch?v=ZYkBB1lrars)
-
+[![iSHAT KK Latest Video](https://i.imgur.com/9genMOn.png)](https://www.youtube.com/watch?v=ZYkBB1lrars "iSHAT KK Latest Video")
 <!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/c/iSHATKK)
----
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/iSHATKK?sub_confirmation=1)
 <br>
 
 <hr>
