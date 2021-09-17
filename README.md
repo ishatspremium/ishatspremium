@@ -24,6 +24,13 @@
   <br>
   📫 How to reach me: <a href="mailto: ishatspremium@hotmail.com">ishatspremium@hotmail.com</a>
 </p>
+<br>
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [iSHAT KK's Latest YouTube Video](https://www.youtube.com/watch?v=ZYkBB1lrars)
+➡️ [more videos...](https://www.youtube.com/channel/UCg7b7r_Grr7dMAS9vljuOTA)
+---
+<br>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
