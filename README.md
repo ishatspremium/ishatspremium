@@ -14,7 +14,7 @@
   Hi, I'm iSHAT KK!
   <br>
   <br>
-  🔬 I'm currently studying for a BBA degree in North South University
+  🔬 I'm currently Unemployed
   <br>
   💻 I love writing code and learn anythings about it
   <br>
