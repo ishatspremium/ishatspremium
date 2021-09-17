@@ -31,7 +31,7 @@
 - [iSHAT KK's Latest YouTube Video](https://www.youtube.com/watch?v=ZYkBB1lrars)
 
 <!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/channel/UCg7b7r_Grr7dMAS9vljuOTA)
+➡️ [more videos...](https://www.youtube.com/c/iSHATKK)
 ---
 <br>
 
