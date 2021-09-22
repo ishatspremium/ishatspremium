@@ -36,10 +36,6 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- YouTube Cards - WIP by ishatspremium -->
 
-<!-- YOUTUBE:START -->
-[![iSHAT KK Latest Video](https://i.imgur.com/9genMOn.png)](https://www.youtube.com/watch?v=ZYkBB1lrars "iSHAT KK Latest Video")
-<!-- YOUTUBE:END -->
-
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/iSHATKK?sub_confirmation=1)
 <br>
 
